@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\0ecd780768c6e7813fe8044303df02d2f22f3e88\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="C:\Users\User\Documents\NativeScript Sidekick\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_0a4e3e656d0bd464c36708abef8bd74419d450c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\526084519f05106bb61f83db343a4cec5bea3b9c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\User\Documents\NativeScript Sidekick\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_a7c8204ac194cda897559a0da890b38e48284360.jar" />
+    </item>
+
+</items>
